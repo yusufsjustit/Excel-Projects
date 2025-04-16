@@ -3,13 +3,14 @@
 ![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg)
 
 This workbook is a compilation of practical exercises, notes, and guided tasks completed as part of **Week 1** in the **Data Technician** course. It focuses on foundational data concepts, Excel-based analysis, and understanding of key regulations around data handling.
-
+![Screenshot 2025-03-03 144355](https://github.com/user-attachments/assets/cd34d577-71a3-4aed-afe0-de5e03fc77a1)
 ---
 
 ## 📅 Weekly Breakdown
 
 ### ✅ Day 1: Data Legislation
-- Overview of UK data laws and regulations:
+- Overview of UK data laws and regulatio
+ns:
   - Data Protection Act
   - GDPR
   - Freedom of Information Act
